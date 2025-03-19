@@ -3,7 +3,7 @@
 > 记录我的鸿蒙（HarmonyOS）学习旅程，包含实践项目、学习笔记和资源整理
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![OpenHarmony Version](https://img.shields.io/badge/OpenHarmony-4.0-blue)](https://gitee.com/openharmony)
+[![OpenHarmony Version](https://img.shields.io/badge/OpenHarmony-5.0-blue)](https://gitee.com/openharmony)
 
 ## 📚 内容概览
 
